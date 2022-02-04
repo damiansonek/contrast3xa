@@ -5,11 +5,11 @@
 
 <p><strong>This script has 4 modes:</strong></p>
 <ul>
-<li>Contrast mode<li>
+<li>Contrast mode</li>
 <li>Font size - default</li>
 <li>Font size - x2</li>
 <li>Font size - x3</li>
-<ul>
+</ul>
   
 <p>The styles for the script are set in the scriptStyles.css file</p>
 <p>Feel free to use - let's make the internet better for everyone.</p>
