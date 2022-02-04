@@ -1,0 +1,33 @@
+/* contrast mode */
+.contrast-mode body {
+    background-color: black;
+}
+
+.contrast-mode h1,
+.contrast-mode p {
+    color: yellow;
+}
+
+.contrast-mode .accessibility--icon {
+    filter: invert(1)
+}
+
+/* A+ mode */
+
+h1.fontsize2x {
+    font-size: 3rem;
+}
+
+p.fontsize2x {
+    font-size: 2rem;
+}
+
+/* A++ mode */
+
+h1.fontsize3x {
+    font-size: 4.5rem;
+}
+
+p.fontsize3x {
+    font-size: 3rem;
+}
